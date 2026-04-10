@@ -63,8 +63,7 @@ The dashboard includes the following KPIs:
 
 ## 🖼️ Dashboard Preview
 
-> *(Add your dashboard screenshot here)*
-> ![Dashboard Screenshot](./assets/hr_dashboard.png)
+> ![Dashboard Screenshot](https://github.com/Sasikumar-B7/HR-Analytics-Dashboard-Power-BI-Project/blob/main/Dashboard%20Screenshot.png)
 
 ---
 
